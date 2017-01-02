@@ -1,23 +1,30 @@
 {
-    "levelpulse":
+    "Level":
     {
         "image" : "Z68hWsd",
         "description" : "The founder of the DCS Discord channel. Regularly fly DCS world and my favourite module is the MiG-21Bis",
         "name" : "Level"
     },
     
-    "Matse007":
+    "Wissam":
+    {
+       "image" : "WI1KL",
+        "description" : "Hi I'm Sam. I like planes and I'm very single and unemployed. if you are an attractive lady please email me at swise335@gmail.com. Black haireds, Leave voters need not apply",
+        "name" : "Wissam" 
+    },
+    
+    "Rafal0id":
     {
        "image" : "w4KYNSp",
-        "description" : "My Name is Matthias im a 17 years old german gamer. I love to stream all kind of Games but i manly i stream Casual Games and Speedruns of different games.",
-        "name" : "Matse007" 
+        "description" : "PLACEMARKER",
+        "name" : "Rafal0id" 
     },
-  
-    "DangerTharp":
+	
+    "Uncooked":
     {
        "image" : "KR8bvWE",
-        "description" : "I am Danger! or Tharp if you prefer. I'm a pretty regular streamer with a love of a wide range of games. I have way way too many games to play on Steam alone. I currently stream on PC",
-        "name" : "DangerTharp" 
+        "description" : "PLACEMARKER",
+        "name" : "Uncooked" 
     }    
     
 }
